@@ -1,5 +1,5 @@
 # Emojify
-This algorithm can detect emoji automatically by checking sentences and words.
+In this model we can create emoji automatically by checking sentences and words.
 
 There are two methods one is baseline method and another one is using keras to detect emoji through words
 
